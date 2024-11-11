@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474690230192",
+    "project_id": "alfit-c0a9b",
+    "storage_bucket": "alfit-c0a9b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474690230192:android:c143c61705f9cd86e3a875",
+        "android_client_info": {
+          "package_name": "ru.mirea.lutchenko.alfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCyA5OFEL0kbG2IZyEM9fWod0hnAWTCdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
